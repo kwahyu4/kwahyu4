@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mas Why  :octocat:
+- 👋 Hi friends, I’m Mas Why  :octocat:
 - 👀 I’m interested in Atmospheric Science especially Numerical Weather Prediction :cloud:
 - 🌱 I’m currently learning Data Visualization :bar_chart:
 
